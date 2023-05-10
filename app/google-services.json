@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976767842842",
+    "project_id": "telemed-850bf",
+    "storage_bucket": "telemed-850bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976767842842:android:0e535e4d827f3376712fa3",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976767842842-e5tgc9sk465avogifg48e894ivs38q2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkYFCOvnoyzp62k3LWwxQwAnMOilbsj3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976767842842-e5tgc9sk465avogifg48e894ivs38q2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
